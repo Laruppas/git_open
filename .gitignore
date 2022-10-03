@@ -1,3 +1,6 @@
-.in
-.out
-.pyc
+*.in
+!spec/*.in
+*.out
+!spec/*.out
+*.pyc
+!spec/*.pyc
